@@ -1,0 +1,21 @@
+Color:
+Blue : #4B40C5;
+Orange : #EC682C;
+
+Fonts:
+font-family: Peralta;
+font-size: 40px;
+font-weight: 400;
+line-height: 52px;
+letter-spacing: 0em;
+text-align: left;
+
+Poppins - 700, 600,500 & 400
+
+Your Email 
+font-family: Montserrat;
+font-size: 19px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: left;
